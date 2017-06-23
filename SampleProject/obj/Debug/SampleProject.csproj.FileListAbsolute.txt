@@ -1,0 +1,10 @@
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\WebDriver.dll
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\WebDriver.Support.dll
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\WebDriver.xml
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\bin\Debug\WebDriver.Support.xml
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+c:\users\pavithra\documents\visual studio 2017\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
